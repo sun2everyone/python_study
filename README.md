@@ -1,3 +1,5 @@
 # python_study
-Studying python
+
+Python study projects
+
 guess_number - Game, where you need to guess a positive number
